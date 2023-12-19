@@ -1,0 +1,2 @@
+# BTCW_COLD_WALLET
+BTCW Paper Wallet
