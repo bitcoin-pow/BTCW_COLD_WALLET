@@ -1,2 +1,5 @@
-# BTCW_COLD_WALLET
-BTCW Paper Wallet
+# Paper Wallet
+BTCW paper wallet
+```
+Open index.html with browswer
+```
